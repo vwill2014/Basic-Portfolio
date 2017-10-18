@@ -1,0 +1,142 @@
+	
+	header {
+	 
+	  color: #333;
+	  background-color: white;
+	float:left;
+	  width:100%;
+	
+
+
+	}
+
+	  
+
+  #name {
+
+  	background-color: #46c1e2;
+  	color: white;
+	width: 40%;
+	text-align: center;
+	margin-left: 100px;
+	padding: 3px;
+	float:left;
+	}
+
+#about{
+	
+	background-color: white;
+	float:right;
+	text-align: center;
+	color:gray;
+	padding: 27px;
+	margin-right:50px;
+	
+}
+
+
+#portfolio {
+
+	background-color: white;
+	float:right;
+	color:gray;
+	padding: 27px;
+	margin-right:50px;
+
+	
+}
+
+
+#contact {
+
+	background-color: white;
+	float:right;
+	color:gray;
+	padding: 27px;
+	margin-right:50px;
+
+}
+
+
+
+
+.center {
+
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+.clearfix::after {
+	content: "";
+	display:block;
+	clear:both;
+
+}
+
+#section2 {
+
+	background-color:gray;
+	float:right;
+
+}
+
+#aboutMe {
+
+background-color: purple;
+float:left;
+width:70%;
+padding-bottom: 10px;
+
+}
+
+#aside{
+
+background-color: pink;
+float:left;
+width:25%;
+margin-left:20px;
+text-align: center;
+
+
+}
+
+#github{
+
+float:left;
+padding:20px;
+padding-left:82px;
+
+}
+
+#linked{
+
+float:left;
+padding:20px;
+
+}
+
+#gitlab{
+
+padding:20px;
+float:left;
+
+}
+
+
+#dog{
+
+float: left;
+width:300px;
+height:200px;
+margin:0 10px;
+
+}
+
+#aboutMe2{
+
+	margin-left:10px;
+
+}
+
