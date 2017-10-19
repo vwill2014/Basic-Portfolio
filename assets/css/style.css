@@ -1,4 +1,34 @@
- <style>
+ 
+ .nav{
+font-size:20px;
+float:right;
+
+
+}
+
+
+#about{
+ margin-right:20px;
+
+}
+
+#portfolio{
+margin-right:20px;
+
+
+}
+
+
+#contact{
+
+margin-right:20px;
+
+
+
+
+}
+ 
+ }
 
     #img1{
         
@@ -17,23 +47,29 @@
         height:500px;
         border-radius:500px;
         background-color:gray; 
-        margin-top:-1000px;
-        margin-left: 1000px;
+        margin-top:-900px;
+        margin-right: 1000px;
         opacity: .30;
-
        
     }
 
-#name{
+	#name{
 
         position:absoulte;
         font-size: 40px;
         color:#2B2222;
         font-weight: bold;
+        margin-right: 800px;
+        margin-top:-1000;
      
-
-
     }
 
-    </style>	
-	
+    
+	#footer{
+
+
+
+
+
+
+	}
